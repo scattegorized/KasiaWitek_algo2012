@@ -1,0 +1,2 @@
+/Users/kasiawitek/of_preRelease_v007_osx/Jonah_total/first_try/other_space/src/Line.cpp: In constructor 'lineDraw::lineDraw()':
+/Users/kasiawitek/of_preRelease_v007_osx/Jonah_total/first_try/other_space/src/Line.cpp:24: error: a function-definition is not allowed here before '{' token
