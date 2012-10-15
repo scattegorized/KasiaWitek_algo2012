@@ -85,7 +85,7 @@ void testApp::update(){
 //--------------------------------------------------------------
 void testApp::draw(){
 	
-	ofColor(ofRandom(0,100), ofRandom(0,104), ofRandom(200,255), ofRandom(0,102));
+ofColor(239,197,215);(ofRandom(0,100), ofRandom(0,104), ofRandom(200,255), ofRandom(0,102));
 
 	
 	for(int i = 0; i<NUM_CIRCLES; i++)
