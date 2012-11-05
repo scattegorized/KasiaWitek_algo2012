@@ -6,6 +6,7 @@ void testApp::setup(){
 	ofSetVerticalSync(true);
 
     ofBackground(0, 0, 0);
+    //ofEnableBlendMode(OF_BLENDMODE_ADD);
         
        
 	
