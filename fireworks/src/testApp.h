@@ -19,7 +19,8 @@ public:
     void mousePressed(int x, int y, int button);
     void makePixicles();
 	
-    ofImage img;
+    //ofImage img;
+    ofImage bg;
     int numPix;
     unsigned char* pix;
 	

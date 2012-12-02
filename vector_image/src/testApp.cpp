@@ -5,7 +5,7 @@
 #include "testApp.h"
 
 void ofxSetColorHSB(float h, float s, float b, float a=34);
-//134
+
 
 //--------------------------------------------------------------
 void testApp::setup(){
@@ -37,7 +37,7 @@ void testApp::draw(){
     
 
     
-    ofBackground(123,255,255);
+    ofBackground(0,0,0);
     ofSetColor(120,23,120);
     
     for (int y=0; y<h; y+=6) {
@@ -68,6 +68,8 @@ void testApp::draw(){
 }
 
 void ofxSetColorHSB(float h, float s, float b, float a) {
+
+
     if (b==0) return ofSetColor(0,0,0,a); //black
     if (s==0) return ofSetColor(b,b,b,a); //gray
     
@@ -92,3 +94,17 @@ void ofxSetColorHSB(float h, float s, float b, float a) {
 
     }
 //----------------------------------------------
+
+void testApp::mouseDragged(int x, int y, int button){
+	
+	float diffx = x - prevMouseX;
+	float diffy = y - prevMouseY;
+    
+    prevMouseX = x;
+	prevMouseY = y;
+}
+//--------------------------------------------------------------
+void testApp::mousePressed(int x, int y, int button){
+	prevMouseX = x; 
+	prevMouseY = y;
+}
