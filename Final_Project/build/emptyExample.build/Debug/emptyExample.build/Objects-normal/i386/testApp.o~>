@@ -1,0 +1,38 @@
+In file included from /Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/testApp.h:6,
+                 from /Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/testApp.cpp:1:
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/aubioAnalyzer.h:10:19: error: aubio.h: No such file or directory
+In file included from /Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/testApp.cpp:1:
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/testApp.h:76:2: error: #endif without #if
+In file included from /Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/testApp.h:6,
+                 from /Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/testApp.cpp:1:
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/aubioAnalyzer.h:33: error: 'aubio_pitchdetection_mode' does not name a type
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/aubioAnalyzer.h:34: error: 'aubio_pitchdetection_type' does not name a type
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/aubioAnalyzer.h:36: error: ISO C++ forbids declaration of 'fvec_t' with no type
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/aubioAnalyzer.h:36: error: expected ';' before '*' token
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/aubioAnalyzer.h:37: error: ISO C++ forbids declaration of 'aubio_pitchdetection_t' with no type
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/aubioAnalyzer.h:37: error: expected ';' before '*' token
+In file included from /Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/testApp.h:8,
+                 from /Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/testApp.cpp:1:
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/hair.h:58: error: 'myLine' has not been declared
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/hair.h: In member function 'void Note::update(int, int*, float)':
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/hair.h:85: error: request for member 'min_y' in '* theLines', which is of non-class type 'int'
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/hair.h:93: error: request for member 'id' in '*(((int*)(((unsigned int)i) * 4u)) + theLines)', which is of non-class type 'int'
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/hair.h:93: error: request for member 'min_y' in '*(((int*)(((unsigned int)i) * 4u)) + theLines)', which is of non-class type 'int'
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/hair.h:93: error: request for member 'max_y' in '*(((int*)(((unsigned int)i) * 4u)) + theLines)', which is of non-class type 'int'
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/hair.h:95: error: request for member 'min_y' in '*(((int*)(((unsigned int)i) * 4u)) + theLines)', which is of non-class type 'int'
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/hair.h:143: error: 'theNote' was not declared in this scope
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/hair.h:143: error: request for member 'id' in '*(((int*)(((unsigned int)i) * 4u)) + theLines)', which is of non-class type 'int'
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/hair.h:143: error: request for member 'min_y' in '*(((int*)(((unsigned int)i) * 4u)) + theLines)', which is of non-class type 'int'
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/hair.h:143: error: request for member 'max_y' in '*(((int*)(((unsigned int)i) * 4u)) + theLines)', which is of non-class type 'int'
+In file included from /Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/testApp.cpp:1:
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/testApp.h: At global scope:
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/testApp.h:39: error: 'myLine' does not name a type
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/testApp.h:61: error: 'NUM' was not declared in this scope
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/testApp.h:62: error: 'NUM' was not declared in this scope
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/testApp.h:63: error: 'NUM' was not declared in this scope
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/testApp.h:64: error: 'NUM' was not declared in this scope
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/testApp.h:65: error: 'NUM' was not declared in this scope
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/testApp.h:66: error: 'NUM' was not declared in this scope
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/testApp.h:67: error: 'NUM' was not declared in this scope
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/testApp.h:68: error: 'NUM' was not declared in this scope
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/testApp.cpp:2: error: expected constructor, destructor, or type conversion before string constant

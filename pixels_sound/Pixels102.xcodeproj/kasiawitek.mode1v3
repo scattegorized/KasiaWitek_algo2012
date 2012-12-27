@@ -325,12 +325,12 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>B50C5634154B1A4A00257757</string>
+										<string>B5EA3A9916814D8800EA9CC4</string>
 										<key>history</key>
 										<array>
 											<string>B55AAAFC15463C0300E75200</string>
 											<string>B50C5632154B1A4A00257757</string>
-											<string>B50C5633154B1A4A00257757</string>
+											<string>B50C5634154B1A4A00257757</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -342,14 +342,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {775, 476}}</string>
+								<string>{{0, 0}, {775, 470}}</string>
 								<key>RubberWindowFrame</key>
 								<string>87 59 966 719 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>476pt</string>
+							<string>470pt</string>
 						</dict>
 						<dict>
 							<key>ContentConfiguration</key>
@@ -362,14 +362,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 481}, {775, 197}}</string>
+								<string>{{0, 475}, {775, 203}}</string>
 								<key>RubberWindowFrame</key>
 								<string>87 59 966 719 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
 							<key>Proportion</key>
-							<string>197pt</string>
+							<string>203pt</string>
 						</dict>
 					</array>
 					<key>Proportion</key>
@@ -388,9 +388,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>B50C5635154B1A4A00257757</string>
+				<string>B5EA3A9A16814D8800EA9CC4</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>B50C5636154B1A4A00257757</string>
+				<string>B5EA3A9B16814D8800EA9CC4</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -528,12 +528,8 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>B50C5638154B1A4A00257757</string>
-		<string>B50C5639154B1A4A00257757</string>
-		<string>1C78EAAD065D492600B07095</string>
-		<string>1CD10A99069EF8BA00B06720</string>
 		<string>B55AA9671545F45D00E75200</string>
-		<string>/Users/kasiawitek/of_preRelease_v007_osx/Jonah_total/table/pixels_sound/Pixels102.xcodeproj</string>
+		<string>/Users/kasiawitek/Documents/of_v0073_osx_release/algo2012_students/KasiaWitek_algo2012/pixels_sound/Pixels102.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
 	<string>87 59 966 719 0 0 1280 778 </string>
@@ -574,8 +570,6 @@
 							<string>218pt</string>
 						</dict>
 						<dict>
-							<key>BecomeActive</key>
-							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -615,7 +609,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>B55AA9671545F45D00E75200</string>
-				<string>B50C5621154B18A900257757</string>
+				<string>B5EA3A9C16814D8800EA9CC4</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>

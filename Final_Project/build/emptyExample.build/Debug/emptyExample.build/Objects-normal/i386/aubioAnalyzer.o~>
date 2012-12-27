@@ -1,0 +1,26 @@
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/aubioAnalyzer.cpp:13: error: 'aubioAnalyzer' has not been declared
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/aubioAnalyzer.cpp: In function 'void setup()':
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/aubioAnalyzer.cpp:16: error: 'amplitude' was not declared in this scope
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/aubioAnalyzer.cpp:17: error: 'pitch' was not declared in this scope
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/aubioAnalyzer.cpp:20: error: 'win_s' was not declared in this scope
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/aubioAnalyzer.cpp:21: error: 'hop_s' was not declared in this scope
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/aubioAnalyzer.cpp:22: error: 'samplerate' was not declared in this scope
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/aubioAnalyzer.cpp:23: error: 'channels' was not declared in this scope
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/aubioAnalyzer.cpp:25: error: 'mode' was not declared in this scope
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/aubioAnalyzer.cpp:25: error: 'aubio_pitchm_freq' was not declared in this scope
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/aubioAnalyzer.cpp:26: error: 'type' was not declared in this scope
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/aubioAnalyzer.cpp:26: error: 'aubio_pitch_yinfft' was not declared in this scope
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/aubioAnalyzer.cpp:29: error: 'in' was not declared in this scope
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/aubioAnalyzer.cpp:29: error: 'new_fvec' was not declared in this scope
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/aubioAnalyzer.cpp:30: error: 'pitch_output' was not declared in this scope
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/aubioAnalyzer.cpp:30: error: 'new_aubio_pitchdetection' was not declared in this scope
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/aubioAnalyzer.cpp: At global scope:
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/aubioAnalyzer.cpp:36: error: expected constructor, destructor, or type conversion before '::' token
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/aubioAnalyzer.cpp:43: error: 'aubioAnalyzer' has not been declared
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/aubioAnalyzer.cpp: In function 'void processAudio(float*, int)':
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/aubioAnalyzer.cpp:53: error: 'in' was not declared in this scope
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/aubioAnalyzer.cpp:58: error: 'amplitude' was not declared in this scope
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/aubioAnalyzer.cpp:63: error: 'pitch' was not declared in this scope
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/aubioAnalyzer.cpp:63: error: 'pitch_output' was not declared in this scope
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/aubioAnalyzer.cpp:63: error: 'in' was not declared in this scope
+/Users/kasiawitek/Documents/of_v0073_osx_release/ALGO_HMW/STUFF/Final_Project/src/aubioAnalyzer.cpp:63: error: 'aubio_pitchdetection' was not declared in this scope
